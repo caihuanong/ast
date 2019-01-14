@@ -7,6 +7,8 @@ import (
 	"unicode/utf8"
 )
 
+//词法分析，输入需要分析的string，返回token列表
+
 type TokenType int
 
 type stateFn func(*lexer) stateFn

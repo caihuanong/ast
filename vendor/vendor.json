@@ -1,0 +1,43 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "CSPbwbyzqA6sfORicn4HFtIhF/c=",
+			"path": "github.com/davecgh/go-spew/spew",
+			"revision": "d8f796af33cc11cb798c1aaeb27a4ebc5099927d",
+			"revisionTime": "2018-08-30T19:11:22Z"
+		},
+		{
+			"checksumSHA1": "jyCYGbN0KvpV6PasLXLOmNsaA3s=",
+			"path": "github.com/gogo/protobuf/proto",
+			"revision": "8e4a75f11384d0fb2188d872d456407e41f33fc0",
+			"revisionTime": "2018-12-31T10:04:52Z"
+		},
+		{
+			"checksumSHA1": "uepSWtWY13D5xICYYu0ZpScaGJ0=",
+			"path": "github.com/influxdata/influxql",
+			"revision": "1cbfca8e56b6eaa120f5b5161e4f0d5edcc9e513",
+			"revisionTime": "2018-09-25T23:13:37Z"
+		},
+		{
+			"checksumSHA1": "uCroYbtVmQKn7GChPMMc+vqXFYQ=",
+			"path": "github.com/influxdata/influxql/internal",
+			"revision": "1cbfca8e56b6eaa120f5b5161e4f0d5edcc9e513",
+			"revisionTime": "2018-09-25T23:13:37Z"
+		},
+		{
+			"checksumSHA1": "LuFv4/jlrmFNnDb/5SCSEPAM9vU=",
+			"path": "github.com/pmezard/go-difflib/difflib",
+			"revision": "5d4384ee4fb2527b0a1256a821ebfc92f91efefc",
+			"revisionTime": "2018-12-26T10:54:42Z"
+		},
+		{
+			"checksumSHA1": "qTNfPVU4Tz/JDMcSeL+k9HX2cV8=",
+			"path": "github.com/stretchr/testify/assert",
+			"revision": "363ebb24d041ccea8068222281c2e963e997b9dc",
+			"revisionTime": "2019-01-09T08:30:14Z"
+		}
+	],
+	"rootPath": "ast"
+}
