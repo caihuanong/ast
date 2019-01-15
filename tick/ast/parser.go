@@ -15,7 +15,7 @@ type parser struct {
 
 	lex *lexer
 	// two-token lookahead for parser
-	// 预测？
+	// ll(k)?
 	token     [2]token
 	peekCount int
 
